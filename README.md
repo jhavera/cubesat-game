@@ -239,4 +239,4 @@ MIT License. Do whatever you want with it. If you build on it, I'd love to see w
 
 ## Author
 
-**[Your Name]** — Co-founder of [xOrbita](https://xorbita.com), IBM alumnus, and occasional COBOL nostalgist.
+**John Avera** — Co-founder of [xOrbita](https://xorbita.com), IBM alumnus, and occasional COBOL nostalgist.
